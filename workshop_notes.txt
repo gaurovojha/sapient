@@ -1,0 +1,50 @@
+18-10-2016
+=================================================
+TDD
+Refactoring
+
+Junit Testing :
+make method private
+add have some return type
+junit v3 vs v4 (annotations came in v4)
+Annotations : How it workds --> Reflection
+
+
+Mocking framework :
+
+Mock return values 
+
+Mockito framework : only behaviour can be mocked
+JMock
+power mock : private and static and final methods can be mocked
+
+
+Final : Making things unchangable
+
+Final 
+
+
+static :
+
+class
+variable
+method
+static Import
+Inner classes
+
+abstract
+
+java call by value or call by reference
+
+Super
+this
+calling constrcutor using this
+
+loading -> linking -> initialization
+
+what is the value of hashcode() and when its been initialized
+
+jvm architecture
+
+classloader
+inside jvm

@@ -1,0 +1,41 @@
+The single most important change in Java 8 enables 
+
+Advantages :
+Faster, clearer coding and opens the door to functional programming. 
+Functional programming has risen in importance because it is well suited for concurrent and event-driven (or "reactive") programming. 
+Collection libraries can be given powerful APIs if the language has a convenient syntax for functional expressions
+
+lamda exp : anonymous function impl
+functional Interface : only one abstract method	
+
+Can functional interface be extended ?   YES
+
+Lamda expression chaining
+
+inteface vs abstract class (abstract class has a constructor and its use?)
+
+What is the point of public default method in  functional interface
+
+
+Defender methods in interfaces :
+
+Before java 1.8 if you need to add new functionality into interfaces one needs to provide its implementation in all of the concrete class which are implementing that interface.
+and this limitation makes it almost impossible to extend/improve the existing interfaces and APIs
+
+
+The same challenge was faced while enhancing the Collections API in Java 8 to support lambda expressions in the API. 
+To overcome this limitation a new concept is introduced in Java 8 called default methods which is also referred to as Defender Methods or Virtual extension methods.
+
+
+
+
+REST : Representational State Transfer ?????
+
+Rest + Spring
+
+
+Rest vs servlet vs srping mvc
+
+restful webservice to return employee data in different formats
+Add caching + authentication
+pass object in request and get response as object
